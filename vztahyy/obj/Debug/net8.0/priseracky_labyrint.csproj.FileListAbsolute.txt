@@ -1,0 +1,14 @@
+C:\Programovani\s_prg\c_sh\priseracky_labyrint\obj\Debug\net8.0\priseracky_labyrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programovani\s_prg\c_sh\priseracky_labyrint\obj\Debug\net8.0\priseracky_labyrint.AssemblyInfoInputs.cache
+C:\Programovani\s_prg\c_sh\priseracky_labyrint\obj\Debug\net8.0\priseracky_labyrint.AssemblyInfo.cs
+C:\Programovani\s_prg\c_sh\priseracky_labyrint\obj\Debug\net8.0\priseracky_labyrint.csproj.CoreCompileInputs.cache
+C:\Programovani\s_prg\c_sh\priseracky_labyrint\bin\Debug\net8.0\priseracky_labyrint.exe
+C:\Programovani\s_prg\c_sh\priseracky_labyrint\bin\Debug\net8.0\priseracky_labyrint.deps.json
+C:\Programovani\s_prg\c_sh\priseracky_labyrint\bin\Debug\net8.0\priseracky_labyrint.runtimeconfig.json
+C:\Programovani\s_prg\c_sh\priseracky_labyrint\bin\Debug\net8.0\priseracky_labyrint.dll
+C:\Programovani\s_prg\c_sh\priseracky_labyrint\bin\Debug\net8.0\priseracky_labyrint.pdb
+C:\Programovani\s_prg\c_sh\priseracky_labyrint\obj\Debug\net8.0\priseracky_labyrint.dll
+C:\Programovani\s_prg\c_sh\priseracky_labyrint\obj\Debug\net8.0\refint\priseracky_labyrint.dll
+C:\Programovani\s_prg\c_sh\priseracky_labyrint\obj\Debug\net8.0\priseracky_labyrint.pdb
+C:\Programovani\s_prg\c_sh\priseracky_labyrint\obj\Debug\net8.0\priseracky_labyrint.genruntimeconfig.cache
+C:\Programovani\s_prg\c_sh\priseracky_labyrint\obj\Debug\net8.0\ref\priseracky_labyrint.dll
