@@ -1,9 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Programovani\\s_prg\\c_sh\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Programovani\\s_prg\\prog_s\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CB3F4A9-D924-4BEB-9764-3A240053C321}|ConsoleApp1.csproj|c:\\programovani\\s_prg\\c_sh\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programovani\\s_prg\\GitPrgSem2_25_26\\vztahyy\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB3F4A9-D924-4BEB-9764-3A240053C321}|ConsoleApp1.csproj|c:\\programovani\\s_prg\\prog_s\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CB3F4A9-D924-4BEB-9764-3A240053C321}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,18 +23,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Programovani\\s_prg\\c_sh\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Programovani\\s_prg\\c_sh\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Programovani\\s_prg\\GitPrgSem2_25_26\\vztahyy\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\GitPrgSem2_25_26\\vztahyy\\Program.cs",
+              "ToolTip": "C:\\Programovani\\s_prg\\GitPrgSem2_25_26\\vztahyy\\Program.cs",
+              "RelativeToolTip": "..\\..\\GitPrgSem2_25_26\\vztahyy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T06:59:24.648Z",
+              "WhenOpened": "2025-11-06T16:30:52.274Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programovani\\s_prg\\prog_s\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Programovani\\s_prg\\prog_s\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T06:59:24.648Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,14 @@
+C:\Programovani\s_prg\c_sh\prisera\bin\Debug\net8.0\prisera.exe
+C:\Programovani\s_prg\c_sh\prisera\bin\Debug\net8.0\prisera.deps.json
+C:\Programovani\s_prg\c_sh\prisera\bin\Debug\net8.0\prisera.runtimeconfig.json
+C:\Programovani\s_prg\c_sh\prisera\bin\Debug\net8.0\prisera.dll
+C:\Programovani\s_prg\c_sh\prisera\bin\Debug\net8.0\prisera.pdb
+C:\Programovani\s_prg\c_sh\prisera\obj\Debug\net8.0\prisera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programovani\s_prg\c_sh\prisera\obj\Debug\net8.0\prisera.AssemblyInfoInputs.cache
+C:\Programovani\s_prg\c_sh\prisera\obj\Debug\net8.0\prisera.AssemblyInfo.cs
+C:\Programovani\s_prg\c_sh\prisera\obj\Debug\net8.0\prisera.csproj.CoreCompileInputs.cache
+C:\Programovani\s_prg\c_sh\prisera\obj\Debug\net8.0\prisera.dll
+C:\Programovani\s_prg\c_sh\prisera\obj\Debug\net8.0\refint\prisera.dll
+C:\Programovani\s_prg\c_sh\prisera\obj\Debug\net8.0\prisera.pdb
+C:\Programovani\s_prg\c_sh\prisera\obj\Debug\net8.0\prisera.genruntimeconfig.cache
+C:\Programovani\s_prg\c_sh\prisera\obj\Debug\net8.0\ref\prisera.dll
