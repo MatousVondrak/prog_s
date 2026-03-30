@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "mince": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

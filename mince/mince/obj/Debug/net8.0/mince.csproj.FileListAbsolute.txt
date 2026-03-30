@@ -1,0 +1,14 @@
+C:\Users\vondrakma\source\repos\mince\mince\bin\Debug\net8.0\mince.exe
+C:\Users\vondrakma\source\repos\mince\mince\bin\Debug\net8.0\mince.deps.json
+C:\Users\vondrakma\source\repos\mince\mince\bin\Debug\net8.0\mince.runtimeconfig.json
+C:\Users\vondrakma\source\repos\mince\mince\bin\Debug\net8.0\mince.dll
+C:\Users\vondrakma\source\repos\mince\mince\bin\Debug\net8.0\mince.pdb
+C:\Users\vondrakma\source\repos\mince\mince\obj\Debug\net8.0\mince.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vondrakma\source\repos\mince\mince\obj\Debug\net8.0\mince.AssemblyInfoInputs.cache
+C:\Users\vondrakma\source\repos\mince\mince\obj\Debug\net8.0\mince.AssemblyInfo.cs
+C:\Users\vondrakma\source\repos\mince\mince\obj\Debug\net8.0\mince.csproj.CoreCompileInputs.cache
+C:\Users\vondrakma\source\repos\mince\mince\obj\Debug\net8.0\mince.dll
+C:\Users\vondrakma\source\repos\mince\mince\obj\Debug\net8.0\refint\mince.dll
+C:\Users\vondrakma\source\repos\mince\mince\obj\Debug\net8.0\mince.pdb
+C:\Users\vondrakma\source\repos\mince\mince\obj\Debug\net8.0\mince.genruntimeconfig.cache
+C:\Users\vondrakma\source\repos\mince\mince\obj\Debug\net8.0\ref\mince.dll
